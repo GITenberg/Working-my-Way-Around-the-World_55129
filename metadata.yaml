@@ -1,0 +1,27 @@
+_repo: Working-my-Way-Around-the-World_55129
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Franck, Harry Alverson
+    alias: Franck, Harry A.
+    birthdate: 1881
+    deathdate: 1962
+    gutenberg_agent_id: '1579'
+    url: http://www.gutenberg.org/2009/agents/1579
+    wikipedia: http://en.wikipedia.org/wiki/Harry_A._Franck
+  - agent_name: Franck, Lena M.
+    gutenberg_agent_id: '48195'
+    url: http://www.gutenberg.org/2009/agents/48195
+description: ''
+gutenberg_issued: '2017-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Working my Way Around the World
+url: http://www.gutenberg.org/ebooks/55129
